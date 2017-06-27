@@ -15,3 +15,6 @@ https://scratch.mit.edu/projects/166496267/
 
 ドラゴンに当たらないようにリンゴをゲット  
 https://scratch.mit.edu/projects/166223572/
+
+Scratch入門  
+http://fry.no.coocan.jp/SCRATCH/scratch.pdf
