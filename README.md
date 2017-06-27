@@ -10,7 +10,7 @@ https://scratch.mit.edu/explore/projects/games/
 https://scratch.mit.edu/projects/165530365/
 
 お洒落ゲーム  
-水色と茶色の丸に当たらないように逃げ延びる
+水色と茶色の丸に当たらないように逃げ延びる  
 https://scratch.mit.edu/projects/166496267/
 
 ドラゴンに当たらないようにリンゴをゲット  
